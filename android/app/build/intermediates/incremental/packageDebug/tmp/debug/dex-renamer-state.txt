@@ -1,0 +1,7 @@
+#Thu Aug 01 15:15:38 ICT 2019
+base.0=E\:\\reactive\\Exp3\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=E\:\\reactive\\Exp3\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
