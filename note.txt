@@ -1,0 +1,6 @@
+restart device: adb shell am broadcast -a android.intent.action.BOOT_COMPLETED
+cd not working: cd /d folder
+show popup debug react: adb shell input keyevent 82
+variable react-navtive: C:\Users\admin\AppData\Roaming\npm
+variable note js: F:\nodejs\
+assets: react-native link
